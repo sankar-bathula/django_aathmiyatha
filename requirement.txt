@@ -28,7 +28,7 @@ Pillow==5.4.1
 pyenchant==2.0.0
 pyfiglet==0.8.post0
 Pygments==2.3.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.2.2
 pypng==0.0.19
 PyQRCode==1.2.1
